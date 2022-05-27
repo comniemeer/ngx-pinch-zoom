@@ -1,6 +1,6 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "0.0.0",
+  "name": "@mtnair/ngx-pinch-zoom",
+  "version": "2.5.6",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
