@@ -1,6 +1,6 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "2.5.5",
+  "name": "@mtnair/ngx-pinch-zoom",
+  "version": "2.5.6",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
