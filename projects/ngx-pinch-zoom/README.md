@@ -1,7 +1,8 @@
-Fork of [ngx-pinch-zoom](https://www.npmjs.com/package/ngx-pinch-zoom) to work with Angular 14 / 15.
+Fork of [ngx-pinch-zoom](https://www.npmjs.com/package/ngx-pinch-zoom) to work with Angular 14 / 15 / 16.
 
 - Use 2.5.10 for Angular 14.
 - Use 2.5.11 for Angular 15.
+- Use 2.5.12 for Angular 16.
 
 # Pinch zoom for Angular
 
